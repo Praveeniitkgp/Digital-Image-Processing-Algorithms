@@ -1,5 +1,4 @@
-######NOTES  ->>>> I have created a shell file can be use drun all file sequentiallly in one go. 
-
+#Image Processing Algorithms
 
 
 #Step 1: Chamfer Labeling
@@ -26,4 +25,4 @@ python3 polygonization.py output_spaner_contour.png output_spaner_polygonized.pn
 
 
 
-#This README.md file consolidates all the commands needed to run each part of this image processing #assignment.
+#This README.md file consolidates all the commands needed to run each part of this image processing.
