@@ -22,7 +22,3 @@ python3 polygonization.py output_curve_contour.png output_curve_polygonized.png
 python3 polygonization.py output_setsqr_contour.png output_setsqr_polygonized.png
 python3 polygonization.py output_spaner_contour.png output_spaner_polygonized.png
 
-
-
-
-#This README.md file consolidates all the commands needed to run each part of this image processing.
